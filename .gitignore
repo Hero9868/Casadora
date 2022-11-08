@@ -4,6 +4,7 @@ terraform/*.tfstate
 terraform/*.tfstate.backup
 terraform/*.tfvars
 !terraform/terraform.example.tfvars
+terraform/terraform copy.tfvars/
 
 ansible/test*
 ansible/setup.env
